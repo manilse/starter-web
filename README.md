@@ -15,4 +15,6 @@ This is a simple web project, deployment can be on any web server.
 
 ### Copyright
 
+Adding some more info. 
+
 2022 Git.Training.
